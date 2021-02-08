@@ -341,6 +341,9 @@
 .ti-uppercase:before {
   content: "\e66a";
 }
+.fa-slack:before {
+  content: "\e198";
+}
 .ti-upload:before {
   content: "\e66b";
 }
